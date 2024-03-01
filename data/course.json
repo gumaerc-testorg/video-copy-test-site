@@ -1,0 +1,30 @@
+{
+  "term": "",
+  "year": "",
+  "level": [],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "video-copy-test-site"
+  },
+  "course_image": {
+    "content": "",
+    "website": "video-copy-test-site"
+  },
+  "course_title": "Video Copy Test Site",
+  "hide_download": false,
+  "course_description": "[https://github.com/mitodl/ocw-studio/pull/2120](https://github.com/mitodl/ocw-studio/pull/2120)",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "2120",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "video-copy-test-site"
+  },
+  "learning_resource_types": [],
+  "site_uid": "34ae9bdf-fa77-492d-bc47-f37c91ffc87f",
+  "site_short_id": "video-copy-test-site"
+}
