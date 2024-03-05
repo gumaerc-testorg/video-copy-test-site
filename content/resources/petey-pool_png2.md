@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/video-copy-test-site/petey-pool.png
+file: /courses/video-copy-test-site/petey-pool.png
 file_size: 10715581
 file_type: image/png
 image_metadata:
