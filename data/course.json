@@ -12,19 +12,19 @@
     "content": "",
     "website": "video-copy-test-site"
   },
-  "course_title": "Video Copy Test Site",
+  "course_title": "video-copy-test-site",
   "hide_download": false,
-  "course_description": "[https://github.com/mitodl/ocw-studio/pull/2120](https://github.com/mitodl/ocw-studio/pull/2120)",
+  "course_description": "video-copy-test-site",
   "department_numbers": [
     "1"
   ],
   "extra_course_numbers": "",
-  "primary_course_number": "2120",
+  "primary_course_number": "2131",
   "course_image_thumbnail": {
     "content": "",
     "website": "video-copy-test-site"
   },
   "learning_resource_types": [],
-  "site_uid": "34ae9bdf-fa77-492d-bc47-f37c91ffc87f",
+  "site_uid": "73891e15-1fa7-4e79-b991-d8042889452d",
   "site_short_id": "video-copy-test-site"
 }
