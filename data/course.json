@@ -12,9 +12,9 @@
     "content": "",
     "website": "video-copy-test-site"
   },
-  "course_title": "video-copy-test-site",
+  "course_title": "Video Copy Test Site",
   "hide_download": false,
-  "course_description": "video-copy-test-site",
+  "course_description": "A test site for https://github.com/mitodl/ocw-studio/pull/2131",
   "department_numbers": [
     "1"
   ],
@@ -25,6 +25,6 @@
     "website": "video-copy-test-site"
   },
   "learning_resource_types": [],
-  "site_uid": "73891e15-1fa7-4e79-b991-d8042889452d",
+  "site_uid": "eeccd08a-591e-4b05-97fe-c67b00803dbe",
   "site_short_id": "video-copy-test-site"
 }
